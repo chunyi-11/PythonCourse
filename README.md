@@ -14,9 +14,11 @@
 
 **课程 5**：[`Class_5.ipynb`](./Class_5.ipynb): 数据处理(math、statistics、numpy、pandas)
 
+**课程 6**：[`Class_6.ipynb`](./Class_6.ipynb): 面向对象编程(类、对象、封装、继承、多态、抽象、属性)
+
 ## 云教室 Colab：
 
-**Class 1**: <a href="https://colab.research.google.com/github/Li-Murong/PythonCourse/blob/main/Class_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  Jupyternotebook运用、Python基础数据结构
+**Class 1**: <a href="https://colab.research.google.com/github/Li-Murong/PythonCourse/blob/main/Class_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> Jupyternotebook 运用、Python 基础数据结构
 
 **Class 2**: <a href="https://colab.research.google.com/github/Li-Murong/PythonCourse/blob/main/Class_2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 基本逻辑
 
@@ -25,3 +27,5 @@
 **Class 4**: <a href="https://colab.research.google.com/github/Li-Murong/PythonCourse/blob/main/Class_4.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 函数和排序方法
 
 **Class 5**: <a href="https://colab.research.google.com/github/Li-Murong/PythonCourse/blob/main/Class_5.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 数据处理基础(math、statistics、numpy、pandas、字符串处理)
+
+**Class 6**: <a href="https://colab.research.google.com/github/Li-Murong/PythonCourse/blob/main/Class_6.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 面向对象编程(类、对象、封装、继承、多态、抽象、属性)
